@@ -1,0 +1,6 @@
+framework module Pods_EFarmSwift {
+  umbrella header "Pods-EFarmSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

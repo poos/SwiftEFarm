@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Kingfisher (3.0.1)
+  - PKHUD (4.2.3)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4.0)
+  - Kingfisher (~> 3.0.1)
+  - PKHUD (from `https://github.com/pkluz/PKHUD.git`, branch `release/swift4`)
+  - SwiftyJSON (~> 3.1.4)
+
+EXTERNAL SOURCES:
+  PKHUD:
+    :branch: release/swift4
+    :git: https://github.com/pkluz/PKHUD.git
+
+CHECKOUT OPTIONS:
+  PKHUD:
+    :commit: 4d8fbf70ae912dd72280cde0a5c1440ada9a7306
+    :git: https://github.com/pkluz/PKHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Kingfisher: d5a491b45ea453d90a31bd2c0831d5243e73a73f
+  PKHUD: 351011b853e6b942e7ee8ad335864cc84c787241
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 115c4ec19364536064562d23c7bef54b88bf900f
+
+COCOAPODS: 1.2.1
